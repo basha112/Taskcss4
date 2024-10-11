@@ -1,0 +1,53 @@
+.container{
+    width: 500px;
+    height: 600px;
+    border-width: 2px;
+    border-style: solid;
+}
+.header{
+    height: 200px;  
+     border-width: 2px;
+    border-style: solid; 
+    margin: 10px;
+}
+.nav-1,.nav-2{
+    height: 150px;
+    width: 80px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    display: inline-block;
+
+}
+.nav-3{
+    height: 150px;
+    width: 150px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    display: inline-block;
+}
+.section-1{
+    height: 250px;
+    width: 270px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    display: inline-block;
+}
+.section-2{
+    height: 250px;
+    width: 120px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    display: inline-block;
+}
+.footer{
+    height: 60px;
+    width: 480px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
